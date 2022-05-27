@@ -1,0 +1,9 @@
+body{
+    background-color:lightseagreen;
+    
+}
+#camera{
+  border: 2px double;
+    height:250px;
+    width:350px;
+}
